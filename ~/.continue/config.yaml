@@ -1,0 +1,7 @@
+context:
+  - provider: http
+    name: memory
+    params:
+      url: "http://127.0.0.1:8123/"
+      title: "Past Memory"
+      description: "Relevant context from previous coding sessions"
